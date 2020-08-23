@@ -1,2 +1,2 @@
 # Rifat
-Rifat
+apt update
