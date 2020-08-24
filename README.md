@@ -1,2 +1,0 @@
-# Rifat
-apt update
